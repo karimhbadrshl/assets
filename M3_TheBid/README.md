@@ -1,4 +1,5 @@
 Adding here:
 
-* background image
-* logo
+* background image (desktop and mobile)
+* logo for company
+* logo for county
